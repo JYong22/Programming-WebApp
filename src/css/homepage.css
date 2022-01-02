@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:wght@300&display=swap');
+
+#homepage{
+    height: 100vh;
+}
+#homepage-background{
+    background-image: linear-gradient(135deg, #63B3ED, #2C5282);
+    height: 80vh;
+    clear:both;
+    mask-image: linear-gradient(to top right, transparent 49.5%, white 50.5%), linear-gradient(to top left, transparent 49.5%, white 50.5%), linear-gradient(white, white);
+  mask-size: 75% 25%, 25% 25%, 100% 75%;
+  mask-position: bottom left, bottom right, top left;
+  mask-repeat: no-repeat;
+}
+
+
+#spantext2{
+    background: -webkit-radial-gradient(  #003c8a,#1f297c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#homeWeight{
+    font-size: 20vw;
+}

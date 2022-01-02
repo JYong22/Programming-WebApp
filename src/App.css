@@ -1,0 +1,16 @@
+.App {
+}
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:wght@300&display=swap');
+
+.programs-cardBtn:hover{
+    cursor: pointer;
+    background-color: #EDF2F7;
+}
+
+#exercise-tab{
+    border-right: 2px solid #E2E8F0;
+}
+
+#signout{
+    display: none;
+}

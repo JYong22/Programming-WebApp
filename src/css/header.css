@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:wght@300&display=swap');
+
+#header{
+
+    width: 100vw;
+    border-bottom: 2px solid #E2E8F0;
+
+   
+    font-weight: bold;
+
+
+    
+}
+#headerWeight{
+    font-size: 3.75rem;
+}
+#header-title{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+
+
+}

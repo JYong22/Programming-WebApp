@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/backend/fitness/src/main/java/com/example/fitness/Exercises/ExerciseController.java
 
 # testing
 /coverage
